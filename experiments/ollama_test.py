@@ -1,7 +1,3 @@
-from llama_index.llms.ollama import Ollama
-
-
-
 import ollama
 
 response = ollama.chat(
